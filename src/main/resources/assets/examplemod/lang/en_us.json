@@ -1,13 +1,13 @@
 {
-  "itemGroup.examplemod": "Example Mod Tab",
-  "block.examplemod.example_block": "Example Block",
-  "item.examplemod.example_item": "Example Item",
+  "itemGroup.itemframefinder": "Example Mod Tab",
+  "block.itemframefinder.example_block": "Example Block",
+  "item.itemframefinder.example_item": "Example Item",
 
-  "examplemod.configuration.title": "Example Mod Configs",
-  "examplemod.configuration.section.examplemod.common.toml": "Example Mod Configs",
-  "examplemod.configuration.section.examplemod.common.toml.title": "Example Mod Configs",
-  "examplemod.configuration.items": "Item List",
-  "examplemod.configuration.logDirtBlock": "Log Dirt Block",
-  "examplemod.configuration.magicNumberIntroduction": "Magic Number Text",
-  "examplemod.configuration.magicNumber": "Magic Number"
+  "itemframefinder.configuration.title": "Example Mod Configs",
+  "itemframefinder.configuration.section.itemframefinder.common.toml": "Example Mod Configs",
+  "itemframefinder.configuration.section.itemframefinder.common.toml.title": "Example Mod Configs",
+  "itemframefinder.configuration.items": "Item List",
+  "itemframefinder.configuration.logDirtBlock": "Log Dirt Block",
+  "itemframefinder.configuration.magicNumberIntroduction": "Magic Number Text",
+  "itemframefinder.configuration.magicNumber": "Magic Number"
 }
